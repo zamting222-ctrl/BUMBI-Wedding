@@ -1,5 +1,5 @@
 /**
- * Wedding Invitation Configuration
+ * 이기범 ♥ 강은비 결혼합니다 Configuration
  *
  * 이 파일에서 청첩장의 모든 정보를 수정할 수 있습니다.
  * 이미지는 설정이 필요 없습니다. 아래 폴더에 순번 파일명으로 넣으면 자동 감지됩니다.
