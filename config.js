@@ -1,3 +1,11 @@
+<title>이기범 ♥ 강은비 결혼합니다 </title>
+<meta name="description" content="2026년 6월 27일, 소중한 분들을 초대합니다.">
+<link rel="canonical" href="https://zamting222-ctrl.github.io/BUMBI-Wedding/"/>
+<meta property="og:title" content="이기범 ♥ 강은비 결혼합니다" />
+<meta property="og:description" content="2026년 6월 27일, 소중한 분들을 초대합니다." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://zamting222-ctrl.github.io/BUMBI-Wedding/" />
+  
 /**
  * 이기범 ♥ 강은비 결혼합니다 Configuration
  *
@@ -76,10 +84,4 @@ const CONFIG = {
   },
 
   // ── 링크 공유 시 나타나는 문구 ──
-<title>이기범 ♥ 강은비 결혼합니다 - sangseek.com</title>
-<meta name="description" content="2026년 6월 27일, 소중한 분들을 초대합니다.">
-<link rel="canonical" href="https://zamting222-ctrl.github.io/BUMBI-Wedding/"/>
-<meta property="og:title" content="이기범 ♥ 강은비 결혼합니다" />
-<meta property="og:description" content="2026년 6월 27일, 소중한 분들을 초대합니다." />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://zamting222-ctrl.github.io/BUMBI-Wedding/" />
+
