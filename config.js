@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>웹페이지 제목</title>
-    
-    <meta property="og:title" content="페이지 제목">
-    <meta property="og:description" content="페이지 설명">
-    <meta property="og:image" content="이미지 URL">
-    <meta property="og:url" content="페이지 URL">
-    
-</head>
-<body>
-    
-</body>
-</html>
- 
 /**
  * 이기범 ♥ 강은비 결혼합니다 Configuration
  *
